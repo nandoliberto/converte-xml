@@ -1,0 +1,20 @@
+{
+    "name": "nandoliberto/converte-xml",
+    "description": "Biblioteca simples para converter XML de NFe/CTe em objeto PHP.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fernando Liberto",
+            "email": "flsistemas2023@exemplo.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ConverteCTeNFe\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
